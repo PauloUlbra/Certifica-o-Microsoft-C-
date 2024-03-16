@@ -1,0 +1,14 @@
+C:\Users\Paulo Roberto\Desktop\Programação\Estudo Libre\Microsoft\bin\Debug\net8.0\Microsoft.exe
+C:\Users\Paulo Roberto\Desktop\Programação\Estudo Libre\Microsoft\bin\Debug\net8.0\Microsoft.deps.json
+C:\Users\Paulo Roberto\Desktop\Programação\Estudo Libre\Microsoft\bin\Debug\net8.0\Microsoft.runtimeconfig.json
+C:\Users\Paulo Roberto\Desktop\Programação\Estudo Libre\Microsoft\bin\Debug\net8.0\Microsoft.dll
+C:\Users\Paulo Roberto\Desktop\Programação\Estudo Libre\Microsoft\bin\Debug\net8.0\Microsoft.pdb
+C:\Users\Paulo Roberto\Desktop\Programação\Estudo Libre\Microsoft\obj\Debug\net8.0\Microsoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Roberto\Desktop\Programação\Estudo Libre\Microsoft\obj\Debug\net8.0\Microsoft.AssemblyInfoInputs.cache
+C:\Users\Paulo Roberto\Desktop\Programação\Estudo Libre\Microsoft\obj\Debug\net8.0\Microsoft.AssemblyInfo.cs
+C:\Users\Paulo Roberto\Desktop\Programação\Estudo Libre\Microsoft\obj\Debug\net8.0\Microsoft.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Roberto\Desktop\Programação\Estudo Libre\Microsoft\obj\Debug\net8.0\Microsoft.dll
+C:\Users\Paulo Roberto\Desktop\Programação\Estudo Libre\Microsoft\obj\Debug\net8.0\refint\Microsoft.dll
+C:\Users\Paulo Roberto\Desktop\Programação\Estudo Libre\Microsoft\obj\Debug\net8.0\Microsoft.pdb
+C:\Users\Paulo Roberto\Desktop\Programação\Estudo Libre\Microsoft\obj\Debug\net8.0\Microsoft.genruntimeconfig.cache
+C:\Users\Paulo Roberto\Desktop\Programação\Estudo Libre\Microsoft\obj\Debug\net8.0\ref\Microsoft.dll
